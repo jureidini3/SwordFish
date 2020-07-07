@@ -2,9 +2,9 @@
   <img src="https://i.pinimg.com/originals/54/19/02/541902f716f7edd427cfa5a9e1230be6.png">  
 </p>
 
-<h1 align="center">IP Location Generator - OnlineHacking</h1>
+<h1 align="center">Termux Voice Welcome - OnlineHacking</h1>
 <p align="center">
-  Location Generator 
+  Welcome Banner In Termux
 </p>
 
 <a href="https://t.me/OnlineHacking"><img src="https://img.shields.io/badge/telegram-Mr.Suman || OnlineHacking-blue.svg">
@@ -19,14 +19,6 @@ Telegram: <a href="https://t.me/OnlineHacking">@OnlineHacking</a>
 ![unnamed (2)](https://i.pinimg.com/originals/5b/46/b2/5b46b2ad5b4b292295d395b98fa3eb3c.png)
 
 
-### ☢️ PREREQUISITES
-
-* python
-
-### 🌀 IpDorp is Available for
-
-* Termux
-
 # ■□■□■□■□■□■□ Commands □■□■□■□■□■□■
 
 ### ☣️ Installation and Usage Guide
@@ -37,41 +29,18 @@ $ apt-get update -y
 $ apt-get upgrade -y
 ```
 ```
-$ pkg install python -y 
+$ git clone https://github.com/OnlineHacKing/Voice-Welcome.git
 ```
 ```
-$ pkg install python2 -y
+$ cd Voice-Welcome
 ```
 ```
-$ pkg install git -y
+$ chmod +x *
 ```
 ```
-$ pip install requests
-```
-```
-$ ls
-```
-```
-$ git clone https://github.com/OnlineHacKing/IpDorp.git
-```
-```
-$ ls
-```
-```
-$ cd IpDorp
-```
-```
-$ ls
-```
-```
-$ python IpDorp.py -v (your victim ip here)
+$ sh install.sh
 ```
 ex:- python ipdrone.py -v 127.0,0.1
-
-Hurray... you got his location with some more information
-
-### 📱SCREENSHOT 📲
-![Shot](https://i.pinimg.com/originals/1a/08/7c/1a087cada9a414c70a360ea5cfbb9140.png)
 
 
 ### Subscribe our channel on youtube
