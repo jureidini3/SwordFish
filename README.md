@@ -43,6 +43,12 @@ $ sh install.sh
 Now Type exit & restart Termux
 
 
+### Update Tool
+```
+$ 
+```
+
+
 ### Subscribe our channel on youtube
 https://www.youtube.com/channel/UCwREEQuPIk7EtaRrZBVvDwg?view_as=subscriber&pbjreload=101
 
