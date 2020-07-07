@@ -40,7 +40,7 @@ $ chmod +x *
 ```
 $ sh install.sh
 ```
-ex:- python ipdrone.py -v 127.0,0.1
+Now Type exit & restart Termux
 
 
 ### Subscribe our channel on youtube
