@@ -7,9 +7,7 @@ mpv /$HOME/Voice-Welcome/Terminal.mp3
 clear
 echo -e "Created By \e[5mOnlineHacking (SUMAN)"
 echo "----------------------------" | lolcat
-echo -e "\e[1;92m "
 echo "   ⊢□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■■□■□■□■□■□■□■□■□■⊣"
-echo -e "\e[1;92m"
 echo "       _                      _______                      _ "
 echo "    _dMMMb._              .adOOOOOOOOOba.              _,dMMMb_ "
 echo "   dP   ~YMMb            dOOOOOOOOOOOOOOOb            aMMP~   Yb "
