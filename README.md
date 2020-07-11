@@ -16,7 +16,7 @@ Twitter: <a href="https://twitter.com/suman333mondal">@suman333mondal</a>
 Github: <a href="https://github.com/OnlineHacking">@OnlineHacking</a>
 Telegram: <a href="https://t.me/OnlineHacking">@OnlineHacking</a>
 
-![unnamed (2)](https://i.pinimg.com/originals/68/ca/1e/68ca1e895d6abe2c5e658c6dce93735b.jpg)
+![unnamed (2)](https://i.pinimg.com/originals/32/9b/50/329b50a3d16e930c39414b1cd32948f7.jpg)
 
 
 # ■□■□■□■□■□■□ Commands □■□■□■□■□■□■
