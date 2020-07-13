@@ -18,6 +18,9 @@ Telegram: <a href="https://t.me/OnlineHacking">@OnlineHacking</a>
 
 ![unnamed (2)](https://i.pinimg.com/originals/32/9b/50/329b50a3d16e930c39414b1cd32948f7.jpg)
 
+## Video Tutorials
+
+[Video](https://youtu.be/g8GF7n0O_LI)
 
 # ■□■□■□■□■□■□ Commands □■□■□■□■□■□■
 
@@ -42,12 +45,14 @@ $ sh install.sh
 ```
 Now Type exit & restart Termux
 
-
 ### Update Tool
 ```
 $ rm -rf 'Voice-Welcome' && git clone https://github.com/OnlineHacKing/Voice-Welcome.git && cd Voice-Welcome && sh install.sh && exit
 ```
 
+## Video Tutorials
+
+[Video](https://youtu.be/g8GF7n0O_LI)
 
 ### Subscribe our channel on youtube
 https://www.youtube.com/channel/UCwREEQuPIk7EtaRrZBVvDwg?view_as=subscriber&pbjreload=101
