@@ -61,7 +61,7 @@ $ rm -rf 'Voice-Welcome' && git clone https://github.com/OnlineHacKing/Voice-Wel
 [Video](https://youtu.be/g8GF7n0O_LI)
 
 ### Subscribe our channel on youtube
-https://www.youtube.com/channel/UCwREEQuPIk7EtaRrZBVvDwg?view_as=subscriber&pbjreload=101
+https://www.youtube.com/OnlineHacking
 
 ### Chekout our webite 
 www.onlinehacking-net.cf
