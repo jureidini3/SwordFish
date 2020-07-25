@@ -38,6 +38,9 @@ $ apt-get update -y
 $ apt-get upgrade -y
 ```
 ```
+$ pkg install mpv -y
+```
+```
 $ git clone https://github.com/OnlineHacKing/Voice-Welcome.git
 ```
 ```
@@ -53,7 +56,7 @@ Now Type exit & restart Termux
 
 ### Update Tool
 ```
-$ rm -rf 'Voice-Welcome' && git clone https://github.com/OnlineHacKing/Voice-Welcome.git && cd Voice-Welcome && sh install.sh && exit
+$ rm -rf 'Voice-Welcome' && pkg install mpv -y && git clone https://github.com/OnlineHacKing/Voice-Welcome.git && cd Voice-Welcome && sh install.sh && exit
 ```
 
 ## Video Tutorials
