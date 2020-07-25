@@ -22,6 +22,12 @@ Telegram: <a href="https://t.me/OnlineHacking">@OnlineHacking</a>
 
 [Video](https://youtu.be/g8GF7n0O_LI)
 
+
+## Requirements
+
+1. [Termux App](https://play.google.com/store/apps/details?id=com.termux&hl=en_IN)
+2. [Termux API App](https://play.google.com/store/apps/details?id=com.termux.api&hl=en_IN)
+
 # ■□■□■□■□■□■□ Commands □■□■□■□■□■□■
 
 ### ☣️ Installation and Usage Guide
