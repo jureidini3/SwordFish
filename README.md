@@ -67,7 +67,7 @@ $ rm -rf 'Voice-Welcome' && pkg install mpv -y && git clone https://github.com/O
 https://www.youtube.com/OnlineHacking
 
 ### Chekout our webite 
-www.onlinehacking-net.cf
+www.onlinehacking-net.com
 
 # ■□■□■□■□■□■□ Warning □■□■□■□■□■□■
 
