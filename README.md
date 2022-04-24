@@ -20,7 +20,7 @@ Telegram: <a href="https://t.me/OnlineHacking">@OnlineHacking</a>
 
 ## Video Tutorials
 
-[Video](https://youtu.be/g8GF7n0O_LI)
+[Video](play.onlinehacking.xyz)
 
 
 ## Requirements
@@ -64,10 +64,11 @@ $ rm -rf 'Voice-Welcome' && pkg install mpv -y && git clone https://github.com/O
 [Video](https://youtu.be/g8GF7n0O_LI)
 
 ### Subscribe our channel on youtube
-https://www.youtube.com/OnlineHacking
+https://www.youtube.com/OnlineHacking2
 
 ### Chekout our webite 
-www.onlinehacking-net.com
+www.onlinehacking.in
+www.onlinehacking.xyz
 
 # ■□■□■□■□■□■□ Warning □■□■□■□■□■□■
 
@@ -78,17 +79,17 @@ www.onlinehacking-net.com
 
 # ■□■□■□■□■□■□ Social Media □■□■□■□■□■□■
 
-Website :- http://www.onlinehacking-net.com
+Website :- https://www.onlinehacking.in
 
 YouTube Channel :- https://bit.ly/on9youtube
 
 Telegram Change :- https://t.me/OnlineHacking
 
-Telegram Group :- https://t.me/OnlineHacking0
+Telegram Group :- https://t.me/Online_Hacking
 
 Github :- https://github.com/OnlineHacKing
 
-Facebook :-  https://bit.ly/facebook4page
+Facebook :-  https://fb.com/onlinehacking
 
 Twitter :- https://bit.ly/twittersuman
 
